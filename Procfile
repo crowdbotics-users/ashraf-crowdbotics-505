@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ashraf_crowdbotics_505.wsgi:application
